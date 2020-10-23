@@ -1,0 +1,2 @@
+# edumacate
+Teaching Python
